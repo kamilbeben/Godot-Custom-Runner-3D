@@ -1,3 +1,6 @@
+# Archived
+This repository is archived as it had been merged into the source repository.
+
 # <img src="Media/Icon.png" width="64" height="64"> Godot Custom Runner
 
 Best explained with a video probably:
